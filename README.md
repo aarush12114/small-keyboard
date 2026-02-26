@@ -1,6 +1,6 @@
 # aarush hackpad
 
-aarush hackpad is a 9 key macropad with an OLED Display and uses QMK firmware
+aarush hackpad is a 9 key macropad with an OLED Display and uses KMK firmware
 
 ## Features:
 - case to fit the keyboard
@@ -28,10 +28,10 @@ PCB
 <img src=./image_2026-02-06_204528572.png alt="Schematic" width="300"/>
 
 ## Firmware Overview
-This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
+This hackpad uses [KMK](https://github.com/KMKfw) firmware for everything. 
 
 - The 9 keys currently act as macros I dynamically change in VIA.
-- The OLED is a cat!! Bongocat!! :3
+- The OLED is a cat!! Bongocat!! :3 (might not work yet will work in future)
 
 I might add more in the future! That's it for now
 
